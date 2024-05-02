@@ -50,6 +50,9 @@ button{
     font-weight: 800;
     cursor: pointer;
 }
+button:hover{
+    background-color: hsla(47, 88%, 63%, 0.815);
+}
 #text-1{
     margin-bottom: 0;
 }
